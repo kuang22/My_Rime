@@ -1,0 +1,4 @@
+patch:
+  style/horizontal: true
+  schema_list:
+    - schema: luna_pinyin_simp
